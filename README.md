@@ -1,9 +1,9 @@
-## Descrição:
+## Token Ring Chat
 
-Implementação de um chat utlizando uma arquitetura similar ao protocolo de redes Token Ring: https://pt.wikipedia.org/wiki/Token_ring
+Implementation of a chat using an architecture similar to the Token Ring network protocol: https://pt.wikipedia.org/wiki/Token_ring
 
-Aplicativo criado para a disciplina Algoritmos e Estrutura de Dados I na UCS em 2020-02.
+Application created for the course Algorithms and Data Structure I at UCS in 2020-02.
 
-## Tecnologias utilizadas:
+## Tecnologies
 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
